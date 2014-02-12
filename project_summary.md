@@ -1,12 +1,17 @@
-# Project Title
-Insert the name of your project
+# Digitron 3030
+To Begin the Beginning
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Mr. Eric Schneider, theschnei, Back-End Development
+- St. Pickett, stpickett, Front-End Development
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+
+Essentially we are creating an algorithm which will break down the data for each of these categories.  Combining a specified amount of images and profile searches (20:10).  These resulting images will be joined to create a combination of all the data received.  Creating, our very own data driven “being”. 
+
+Each ‘being’ exists as the physical representation of the amalgamation of each packet of data taken from the API source points, ultimately funneled and stratified into tangible and physical three-dimensional displayed via LCD screen.
+
+Based on present calculations, if the exhibit is open 12 hours a day, and we create one digital “being” per every 2 hours, and each “being” representing each of the 193 members of the United Nations, we will then represent all public online data signatures of each nation within 32 days.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
@@ -28,6 +33,6 @@ function test() {
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
+![Man](project_images/cover.jpg?raw=true "Man Prototype")
 
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
