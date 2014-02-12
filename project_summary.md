@@ -33,6 +33,6 @@ function test() {
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Man](project_images/cover.jpg?raw=true "Man Prototype")
+![Man](https://box895.bluehost.com:2083/frontend/bluehost/filemanager/showfile.html?file=man_prototype.jpg&fileop=&dir=%2Fhome2%2Fstpicket%2Fpublic_html&dirop=&charset=&file_charset=&baseurl=&basedir= "Man Prototype")
 
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
